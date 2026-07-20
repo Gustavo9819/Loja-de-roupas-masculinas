@@ -75,6 +75,9 @@ Loja-de-roupas-masculinas/
   <li>Abra o arquivo <code>index.html</code> em qualquer navegador.</li>
 </ol>
 
+<ol start="3">
+  <li> Ou Clique no link: <a href="https://gustavo9819.github.io/Loja-de-roupas-masculinas/">Loja de Roupas Masculinas</a></li>
+</ol>
 <hr>
 
 <h2> Aprendizados</h2>
